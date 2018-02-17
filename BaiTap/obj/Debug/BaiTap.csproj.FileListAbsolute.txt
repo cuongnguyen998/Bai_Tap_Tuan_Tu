@@ -1,0 +1,6 @@
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\BaiTap\bin\Debug\BaiTap.exe.config
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\BaiTap\bin\Debug\BaiTap.exe
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\BaiTap\bin\Debug\BaiTap.pdb
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\BaiTap\obj\Debug\BaiTap.csprojResolveAssemblyReference.cache
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\BaiTap\obj\Debug\BaiTap.exe
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\BaiTap\obj\Debug\BaiTap.pdb

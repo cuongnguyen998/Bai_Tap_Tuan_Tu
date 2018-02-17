@@ -1,0 +1,5 @@
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai4\bin\Debug\Bai4.exe.config
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai4\bin\Debug\Bai4.exe
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai4\bin\Debug\Bai4.pdb
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai4\obj\Debug\Bai4.exe
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai4\obj\Debug\Bai4.pdb

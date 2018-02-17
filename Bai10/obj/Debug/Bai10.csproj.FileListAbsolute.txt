@@ -1,0 +1,6 @@
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai10\bin\Debug\Bai10.exe.config
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai10\bin\Debug\Bai10.exe
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai10\bin\Debug\Bai10.pdb
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai10\obj\Debug\Bai10.csprojResolveAssemblyReference.cache
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai10\obj\Debug\Bai10.exe
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai10\obj\Debug\Bai10.pdb

@@ -1,0 +1,5 @@
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai3\bin\Debug\Bai3.exe.config
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai3\bin\Debug\Bai3.exe
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai3\bin\Debug\Bai3.pdb
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai3\obj\Debug\Bai3.exe
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai3\obj\Debug\Bai3.pdb

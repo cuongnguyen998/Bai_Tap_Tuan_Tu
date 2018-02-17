@@ -1,0 +1,5 @@
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai2\bin\Debug\Bai2.exe.config
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai2\bin\Debug\Bai2.exe
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai2\bin\Debug\Bai2.pdb
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai2\obj\Debug\Bai2.exe
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\BaiTap\Bai2\obj\Debug\Bai2.pdb
